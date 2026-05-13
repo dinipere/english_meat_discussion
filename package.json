@@ -1,0 +1,18 @@
+{
+  "name": "english-meat-discussion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev --port 3040",
+    "build": "slidev build",
+    "export": "slidev export",
+    "export:pdf": "slidev export --format pdf",
+    "format": "prettier --write \"**/*.{md,css,json}\""
+  },
+  "devDependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "^1.60.0",
+    "prettier": "latest"
+  }
+}
