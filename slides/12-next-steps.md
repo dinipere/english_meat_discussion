@@ -1,19 +1,20 @@
 ---
-layout: apple-cards
+layout: apple-quote
 ---
 
-## Working plan
+## Technology
 
-# What to do when the real task arrives
+# Lab-grown meat
 
-- **1. Decide the thesis**  
-  What exactly should the presentation argue or explore?
+> **If lab-grown meat tastes the same and is safe, would you eat it?**
+>
+> It is real meat grown from animal cells. It could help with animal welfare, but many people still find it strange.
 
-- **2. Collect sources**  
-  Use a small number of reliable sources and note the date, author, and unit.
+- **Yes**  
+  Less animal suffering, maybe lower environmental impact.
 
-- **3. Assign slides**  
-  Because each slide is a file, both people can take clear ownership.
+- **No**  
+  It feels unnatural or too expensive.
 
-- **4. Rehearse out loud**  
-  Cut anything that sounds nice but does not help the discussion.
+- **Maybe**  
+  Only if it is tested, affordable and clearly labelled.

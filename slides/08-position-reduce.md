@@ -1,14 +1,19 @@
 ---
 layout: apple-default
+class: position-slide
 ---
 
-## Position B
+## Position 2
 
-# People should eat less meat
+# Schools should offer a vegetarian option every day.
 
-This side argues that reducing meat is a realistic way to lower harm without demanding perfection.
-
-- **Climate:** Some meat production has a high environmental footprint.
-- **Health:** A varied diet with more plant-based meals can be beneficial.
-- **Animal welfare:** Lower demand can reduce pressure on intensive production.
-- **Flexibility:** "Less meat" allows gradual change instead of an all-or-nothing rule.
+<div class="position-choice">
+  <div class="position-side position-agree">
+    <span class="position-arrow">&larr;</span>
+    <strong>AGREE</strong>
+  </div>
+  <div class="position-side position-disagree">
+    <strong>DISAGREE</strong>
+    <span class="position-arrow">&rarr;</span>
+  </div>
+</div>

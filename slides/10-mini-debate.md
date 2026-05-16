@@ -1,21 +1,19 @@
 ---
-layout: apple-steps
+layout: apple-default
+class: position-slide
 ---
 
-## Activity
+## Position 4
 
-# Mini debate format
+# Eating meat is a personal choice, so nobody should be judged for it.
 
-Use this slide to test timing, speaker notes, and classroom interaction.
-
-1. **Claim**  
-   One speaker gives a clear position in one sentence.
-
-2. **Reason**  
-   The speaker adds one concrete reason or example.
-
-3. **Response**  
-   The other speaker asks a question or challenges the reason.
-
-4. **Reflection**  
-   Both sides name one point they found convincing.
+<div class="position-choice">
+  <div class="position-side position-agree">
+    <span class="position-arrow">&larr;</span>
+    <strong>AGREE</strong>
+  </div>
+  <div class="position-side position-disagree">
+    <strong>DISAGREE</strong>
+    <span class="position-arrow">&rarr;</span>
+  </div>
+</div>

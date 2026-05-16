@@ -395,6 +395,81 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.discussion-slide h1 {
+  max-width: 28ch;
+  font-size: 2.38rem;
+}
+
+.discussion-task {
+  max-width: 34rem;
+  margin-top: 1.45rem;
+  border-left: 0.22rem solid var(--color-accent);
+  padding: 0.72rem 0 0.72rem 0.95rem;
+  color: var(--color-muted);
+  font-size: var(--fs-lead);
+  font-weight: 620;
+  line-height: 1.28;
+}
+
+.position-slide h1 {
+  width: 100%;
+  max-width: 27ch;
+  font-size: 2.42rem;
+  line-height: 1.04;
+}
+
+.position-choice {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.75rem;
+}
+
+.position-side {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  justify-content: center;
+  min-height: 7.6rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: 1.2rem;
+  background: var(--color-surface);
+  box-shadow: var(--shadow-card);
+  text-align: center;
+}
+
+.position-side strong {
+  color: var(--color-ink);
+  font-size: 1.6rem;
+  line-height: 1;
+}
+
+.position-arrow {
+  color: var(--color-accent);
+  font-size: 3.2rem;
+  font-weight: 780;
+  line-height: 0.78;
+}
+
+.position-agree {
+  border-top: 0.2rem solid var(--color-accent-2);
+}
+
+.position-agree .position-arrow {
+  color: var(--color-accent-2);
+  margin-right: 0.5rem;
+}
+
+.position-disagree {
+  border-top: 0.2rem solid var(--color-warm);
+}
+
+.position-disagree .position-arrow {
+  color: var(--color-warm);
+  margin-left: 0.5rem;
+}
+
 .apple-table h1 {
   max-width: 18ch;
 }

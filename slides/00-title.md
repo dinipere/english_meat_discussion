@@ -2,12 +2,13 @@
 layout: apple-cover
 ---
 
-## Example deck
+## Class discussion
 
-# English Meat Discussion
+# Should we eat less meat?
 
-A practical Slidev test deck for a balanced classroom or team discussion.
+Or is it a matter of personal freedom?
 
-- One file per slide
-- Central design tokens
-- GitHub-friendly structure
+- Felix & Josia
+- INF23D
+- May 19, 2026
+- 30-40 minutes

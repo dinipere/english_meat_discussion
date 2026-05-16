@@ -1,19 +1,12 @@
 ---
-layout: apple-cards
+layout: apple-default
+class: discussion-slide
 ---
 
-## Discussion rules
+## Group discussion 3
 
-# How to make the discussion better
+# Who should be responsible: people, schools, companies or the government?
 
-- **Use "I think" plus a reason**  
-  Do not only state an opinion. Connect it to evidence, experience, or a value.
-
-- **Steelman before disagreeing**  
-  First restate the other side in a way they would accept. Then respond.
-
-- **Separate facts and values**  
-  Facts can be checked. Values explain what people consider important.
-
-- **Avoid moral shortcuts**  
-  Food choices are personal. Focus on arguments, not on judging people.
+<div class="discussion-task">
+Choose one group and prepare one reason.
+</div>

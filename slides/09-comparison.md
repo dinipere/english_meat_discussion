@@ -1,13 +1,19 @@
 ---
-layout: apple-table
+layout: apple-default
+class: position-slide
 ---
 
-## Comparison
+## Position 3
 
-# A more precise discussion
+# Meat should become more expensive if it harms the climate.
 
-| Question | Keep meat normal | Reduce meat |
-|---|---|---|
-| What is the main value? | Choice, tradition, practicality. | Responsibility, prevention, fairness. |
-| What is the weak point? | It can ignore environmental and welfare costs. | It can sound unrealistic or moralizing. |
-| What compromise is possible? | Better sourcing, smaller portions, less waste. | Meat-free days, better vegetarian meals, gradual goals. |
+<div class="position-choice">
+  <div class="position-side position-agree">
+    <span class="position-arrow">&larr;</span>
+    <strong>AGREE</strong>
+  </div>
+  <div class="position-side position-disagree">
+    <strong>DISAGREE</strong>
+    <span class="position-arrow">&rarr;</span>
+  </div>
+</div>

@@ -2,30 +2,36 @@
 layout: apple-vocab
 ---
 
-## Language support
+## Vocabulary
 
-# Useful vocabulary
+# Difficult words
 
-- **to reduce consumption**  
-  to eat or use less of something
+- **meat consumption**  
+  how much meat people eat
 
-- **a balanced diet**  
-  a diet with different nutrients in suitable amounts
-
-- **animal welfare**  
-  the physical and mental well-being of animals
-
-- **carbon footprint**  
-  the emissions connected to an activity or product
-
-- **processed meat**  
-  meat changed by smoking, curing, salting, or additives
+- **to reduce**  
+  to make something less
 
 - **plant-based**  
-  made mostly or entirely from plants
+  made from plants
 
-- **affordable**  
-  not too expensive for most people
+- **carbon footprint**  
+  climate impact
 
-- **to compromise**  
-  to find a solution between different positions
+- **animal welfare**  
+  how animals are treated
+
+- **personal freedom**  
+  the right to choose
+
+- **sustainable**  
+  good for the future
+
+- **government regulation**  
+  rules from the state
+
+- **processed meat**  
+  bacon, sausage or ham
+
+- **balanced diet**  
+  eating different healthy foods

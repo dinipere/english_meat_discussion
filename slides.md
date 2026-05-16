@@ -2,9 +2,8 @@
 theme: default
 title: English Meat Discussion
 info: |
-  Example Slidev deck for an English discussion about meat consumption.
-  The deck is split into one file per slide so two people can work on it
-  in GitHub with fewer merge conflicts.
+  Class discussion deck for Felix and Josia.
+  Topic: Should we eat less meat, or is it a matter of personal freedom?
 drawings:
   persist: false
 transition: slide-left
@@ -21,6 +20,10 @@ src: ./slides/02-context.md
 
 ---
 src: ./slides/03-key-tension.md
+---
+
+---
+src: ./slides/11-vocabulary.md
 ---
 
 ---
@@ -49,14 +52,6 @@ src: ./slides/09-comparison.md
 
 ---
 src: ./slides/10-mini-debate.md
----
-
----
-src: ./slides/11-vocabulary.md
----
-
----
-src: ./slides/12-next-steps.md
 ---
 
 ---
