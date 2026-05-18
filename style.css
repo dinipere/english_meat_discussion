@@ -294,6 +294,33 @@
   line-height: 1;
 }
 
+.context-facts.apple-stats ul {
+  max-width: 46rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.context-facts.apple-stats li {
+  min-height: 6.7rem;
+}
+
+.meat-impact-facts.apple-stats ul {
+  max-width: none;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.72rem;
+}
+
+.meat-impact-facts.apple-stats li {
+  min-height: 6rem;
+  padding: 0.82rem;
+  font-size: 0.72rem;
+}
+
+.meat-impact-facts.apple-stats li strong {
+  margin-bottom: 0.42rem;
+  font-size: 1.35rem;
+  line-height: 1.06;
+}
+
 .apple-stakeholders ul,
 .apple-vocab ul {
   display: grid;
@@ -318,6 +345,21 @@
   color: var(--color-accent);
   font-size: var(--fs-small);
   line-height: 1.25;
+}
+
+.vocab-translations.apple-vocab ul {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.82rem 1.15rem;
+}
+
+.vocab-translations.apple-vocab li {
+  padding-bottom: 0.64rem;
+  font-size: 0.94rem;
+  line-height: 1.34;
+}
+
+.vocab-translations.apple-vocab li strong {
+  font-size: 1rem;
 }
 
 .apple-default ul {

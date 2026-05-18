@@ -15,15 +15,19 @@ src: ./slides/01-purpose.md
 ---
 
 ---
+src: ./slides/11-vocabulary.md
+---
+
+---
 src: ./slides/02-context.md
 ---
 
 ---
-src: ./slides/03-key-tension.md
+src: ./slides/02-more-facts.md
 ---
 
 ---
-src: ./slides/11-vocabulary.md
+src: ./slides/03-key-tension.md
 ---
 
 ---

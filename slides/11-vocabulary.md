@@ -1,37 +1,33 @@
 ---
 layout: apple-vocab
+class: vocab-translations
 ---
 
 ## Vocabulary
 
-# Difficult words
+# Useful words
 
 - **meat consumption**  
-  how much meat people eat
+  how much meat people eat / Fleischkonsum
 
 - **to reduce**  
-  to make something less
+  to make less / reduzieren
+
+- **CO2e**  
+  climate gases counted together / CO2-Äquivalente
+
+- **beef**  
+  meat from cows / Rindfleisch
 
 - **plant-based**  
-  made from plants
-
-- **carbon footprint**  
-  climate impact
+  made from plants / pflanzlich
 
 - **animal welfare**  
-  how animals are treated
+  how animals are treated / Tierwohl
 
 - **personal freedom**  
-  the right to choose
+  the right to choose / persönliche Freiheit
 
-- **sustainable**  
-  good for the future
-
-- **government regulation**  
-  rules from the state
-
-- **processed meat**  
-  bacon, sausage or ham
-
-- **balanced diet**  
-  eating different healthy foods
+<!--
+Josia
+-->

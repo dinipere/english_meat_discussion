@@ -14,3 +14,7 @@ layout: apple-steps
 
 3. **Position yourself**  
    Four agree/disagree statements.
+
+<!--
+josia
+-->
