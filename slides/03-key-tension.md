@@ -6,7 +6,7 @@ layout: apple-quote
 
 # Should we eat less meat?
 
-> **Or is meat a personal choice?**
+> **Raise your Hands if you agree.**
 
 <!--
 Felix:

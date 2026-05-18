@@ -31,7 +31,8 @@
 }
 
 .slidev-layout h1 {
-  max-width: 15ch;
+  width: 100%;
+  max-width: none;
   margin: 0 0 0.8rem;
   color: var(--color-ink);
   font-size: var(--fs-title);
@@ -438,7 +439,8 @@
 }
 
 .discussion-slide h1 {
-  max-width: 28ch;
+  width: 100%;
+  max-width: none;
   font-size: 2.38rem;
 }
 

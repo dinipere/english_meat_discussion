@@ -8,7 +8,7 @@ class: discussion-slide
 # Would eating less meat be realistic for students and families?
 
 <div class="discussion-task">
-Find one realistic change and one possible problem.
+Find one realistic argument and one possible problem.
 </div>
 
 <!--

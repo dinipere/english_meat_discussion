@@ -2,7 +2,7 @@
 layout: apple-steps
 ---
 
-## Ablauf
+## Table of Content
 
 # Today's discussion
 
