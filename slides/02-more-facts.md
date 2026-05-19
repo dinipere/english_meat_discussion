@@ -66,7 +66,7 @@ This is why the discussion is not simply meat or no meat.
 
 It also matters which kind of meat people eat, how often they eat it, and what they replace it with.
 
-For example, eating beef every day has a very different impact from eating chicken once a week or choosing a plant-based meal.
+For example, eating beef every day has a very different impact from eating chicken every day or just once a week or choosing a plant-based meal.
 
 This gives us a more realistic discussion.
 
